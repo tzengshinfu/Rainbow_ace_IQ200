@@ -1,3 +1,2 @@
-- shirts+pants - 月球表面
-- shirts+pants - 軍人
-- hat+gun - 軍人
+- 腰部飾品-游泳圈
+- 頭部飾品-水瓢
